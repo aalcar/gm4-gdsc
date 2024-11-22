@@ -1,3 +1,3 @@
-function gimmeCat(){
-   window.location.href = "https://placekitten.com/";
+function redirect(){
+   window.location.href = "https://github.com/aalcar/gm4-gdsc";
  }
